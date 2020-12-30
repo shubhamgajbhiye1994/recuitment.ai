@@ -1,2 +1,2 @@
-# recuitment.ai
+# Recuitment.ai
 Future of Recuitment Automation
